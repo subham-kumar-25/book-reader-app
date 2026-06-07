@@ -1,0 +1,39 @@
+# Gradle files
+.gradle/
+/build/
+**/build/
+
+# Local configuration
+/local.properties
+
+# Android Studio
+/.idea/
+*.iml
+*.hprof
+
+# Android generated files
+/captures/
+output.json
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# Kotlin/Java generated files
+*.ktx
+*.log
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Misc
+.gradle-cache/
